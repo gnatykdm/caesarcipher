@@ -4,7 +4,7 @@
 #include <string.h>
 
 #define MAX_TEXT_LENGTH 100 // Macros for Maximum Length of the Text
-#define MAX_FILE_NAME_LENGTH 100 // Macros for Maimum Length of the FILE_NAME
+#define MAX_FILE_NAME_LENGTH 100 // Macros for Maximum Length of the FILE_NAME
 
 
 /* @author gnatykdm */
